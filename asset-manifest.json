@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Window-length-tracker/static/css/main.213df8cc.css",
+    "main.js": "/Window-length-tracker/static/js/main.75edf84a.js",
+    "index.html": "/Window-length-tracker/index.html",
+    "main.213df8cc.css.map": "/Window-length-tracker/static/css/main.213df8cc.css.map",
+    "main.75edf84a.js.map": "/Window-length-tracker/static/js/main.75edf84a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213df8cc.css",
+    "static/js/main.75edf84a.js"
+  ]
+}
